@@ -11,4 +11,3 @@ ActionChains(driver).key_down(Keys.CONTROL).key_down(Keys.SHIFT).send_keys(Keys.
 df = pd.read_clipboard()
 
 print (df["Student Id"].unique())
-#david version
